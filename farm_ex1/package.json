@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/weliwita/CPPElectronTutorial/issues"
   },
-  "homepage": "https://github.com/weliwita/CPPElectronTutorial#readme"
+  "homepage": "https://github.com/weliwita/CPPElectronTutorial#readme",
+  "dependencies": {
+    "nan": "^2.6.2"
+  }
 }
